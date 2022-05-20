@@ -1,0 +1,127 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+/* Set style for header */
+header {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(6, 87, 23);
+    border-bottom: 8px solid rgba(184, 135, 11, 0.815);
+}
+
+header ul {
+    list-style: none;
+    text-align: right;
+}
+
+header ul li {
+    display: inline-block;
+    line-height: 50px;
+}
+
+header ul li a {
+    text-decoration: none;
+    color: burlywood;
+    padding: 10px;
+}
+
+.center {
+    text-align: center;
+}
+
+.section-one {
+    padding: 10px;
+    background-color: rgb(247, 226, 201);
+}
+
+/* Set style for Section one */
+
+
+h1 {
+    height: 55px;
+    padding: 15px;
+    color: rgb(119, 78, 3);
+}
+
+.box1 {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: rgb(43, 18, 2);
+}
+
+.box2 {
+    width: 350px;
+    height: 350px;
+    padding: 20px;
+    margin: 0 auto;
+    border: 10px solid rgb(226, 152, 128);
+}
+
+.box3 {
+    width: 290px;
+    height: 290px;
+    padding: 20px;
+    border: 10px solid rgb(2, 39, 2) ;
+}
+
+.box4 {
+    width: 230px;
+    height: 230px;
+    color: blanchedalmond;
+    border: 10px solid rgb(122, 92, 16);
+}
+
+.text1 {
+    width: 150px;
+    word-wrap: normal;
+    font-size: 28px;
+    margin: 65px 30px;
+    border: 3px solid darkgray;
+}
+
+.text2 {
+    margin: 10px;
+}
+
+/* Set style for section two */
+.section-two {
+    width: 100%;
+    height: 230px;
+    background-color: rgba(250, 128, 114, 0.671);   
+}
+
+h3 {
+    padding: 30px;
+    font-size: 25px;
+}
+
+form {
+    width: 300px;
+    height: 100px;
+    margin: 0 auto;
+    padding: 14px;
+    border: 3px solid darkgoldenrod;
+    line-height: 20px;
+    border-radius: 15px;
+}
+
+button {
+    margin: 10px;
+}
+
+/* Set style for footer */
+footer {
+    width: 100%;
+    height: 50px;
+    color: azure;
+    background-color: rgb(6, 87, 23);
+    border-bottom: 8px solid rgba(17, 17, 16, 0.74);
+    line-height: 50px;
+}
+
