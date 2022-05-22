@@ -1,11 +1,10 @@
 body {
-   
-margin: 0 auto;
+   margin: 0;
+   background-color: rgb(217, 96, 36);
 }
 * {
 font-family: comics, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 font-size: large;
-margin: 0px;
 }
 header {
     height: 60px;
@@ -15,7 +14,6 @@ header {
     border-bottom: 5px solid black;
     }
 nav ul{
-    padding: 20px;
     list-style-type: none;
     float: right;
 }
@@ -30,7 +28,8 @@ nav ul li a:link, a:visited {
     font-family: comics;
 }
 #center {
-    background-color: rgb(217, 96, 36);
+background-color: rgb(217, 96, 36);
+    
 }
 @font-face {
     font-family: 'comics';
@@ -43,7 +42,7 @@ nav ul li a:link, a:visited {
 h1 {
     text-align: center;
     font-size: 2em;
-    padding: 10px;
+    padding: px;
     color: rgb(138, 40, 7);
 }
 .box4 {   
