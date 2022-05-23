@@ -124,4 +124,15 @@ footer {
     border-bottom: 8px solid rgba(17, 17, 16, 0.74);
     line-height: 50px;
 }
-
+.text-center {
+    text-align: center;
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+  .form1{
+      width:500px;
+      background-color: chocolate;
+      margin-top: 200px;
+    }
